@@ -8,13 +8,13 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Choose the number of clusters (K)
-2.  Initialize cluster centroids
-3. Assign data points to clusters
-4. Update cluster centroids
-5. Repeat steps 3 and 4
-6. Evaluate the clustering results
-7. Select the best clustering solution
+1. Choose the number of clusters (K).
+2.  Initialize cluster centroids.
+3. Assign data points to clusters.
+4. Update cluster centroids.
+5. Repeat steps 3 and 4.
+6. Evaluate the clustering results.
+7. Select the best clustering solution.
 
 ## Program:
 ```
